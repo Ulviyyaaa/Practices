@@ -1,0 +1,57 @@
+// header {
+ 
+//   .nav_container {
+//     height: 100%;
+//     width: 90%;
+//     nav {
+//       height: 100%;
+//       display: flex;
+//       align-items: center;
+//       justify-content: space-between;
+//       padding-top: 20px;
+//       padding-left: 80px;
+//       padding-right: 20px;
+//       width: 100%;
+//       top: 0;
+//       padding: 60px 100px;
+
+//       .navbarleft {
+//         display: flex;
+
+//         ul {
+//           word-spacing: 10px;
+//           text-align: center;
+//           display: flex;
+
+//           li {
+//             list-style: none;
+//             display: block;
+//             padding: 10px 20px;
+//             margin-top: 7px;
+//             a {
+//               text-decoration: none;
+//             }
+//           }
+//         }
+//       }
+//       .nav_menu{
+//         display: none;
+//         color: #252b42;
+//       }
+//     }
+//   }
+// }
+// @media screen and (max-width: 996px){
+//    header{
+//     .nav_container{
+//         nav{
+//             .nav_bars_menu{
+//                 display: none!important;
+//             }
+//             .nav_menu{
+//                 display: block!important;
+//             }
+//         }
+//     }
+//    }
+// }
